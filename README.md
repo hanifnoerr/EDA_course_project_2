@@ -33,5 +33,5 @@ You must address the following questions and tasks in your exploratory analysis.
 * Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (\color{red}{\verb|fips == "06037"|}fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 ### Note
-Im using google colab to fo this assignment that can be access here:
+Im using google colab to fo this assignment which can be accessed on:
 https://colab.research.google.com/drive/1_V5c4Po_U4VFScO919gZsV2M_eSsrzjC?usp=sharing
